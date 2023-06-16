@@ -3,8 +3,6 @@ This is our custom-built software developed with LabVIEW for analyzing data obta
 
 For a detailed description of the software and how to use it, please refer to Manual.pdf.
 
-(2023/6/15 udner construction)
-
 ### <span style="color: red; "> Terms of Use / Copyright </span>
 #### Using Analysis Software
 Analysis Software may be freely used on condition that the user complies with provisions [1] to [4] below.
