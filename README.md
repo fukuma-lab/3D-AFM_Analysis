@@ -11,7 +11,7 @@ Analysis Software may be freely used on condition that the user complies with pr
 
 [2].	You retain proprietary rights to the results obtained from the analysis of your data by this software. However, in publishing such results, it is necessary to cite the following article in the section describing the experimental method:
 
-> M. Penedo et al., "Visualizing intracellular nanostructures of living cells by nanoendoscopy-AFM", Science Advances 7(52), eabj4990 (2021).
+> T. Ichikawa et al., "Protocol for live imaging of intracellular nanoscale structures using atomic force microscopy with nanoneedle probes", STAR Protocols 4(3), 102468 (2023).
 
 [3].	The developers of this software bear absolutely no responsibility for any action taken by the user involving the use of this software.
 
